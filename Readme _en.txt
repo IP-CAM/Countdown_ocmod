@@ -21,7 +21,7 @@ The menu item "Extension" -> "Extension Installer" set file "special_countdown.o
 
 Clean Cache modifier "Extension" -> "Modifications " Click on the button "Refresh"
 
-Next "Extension" -> "Модули" -> "Special Countdowns" Click on the button "Install" and configure the module.
+Next "Extension" -> "Modules" -> "Special Countdowns" Click on the button "Install" and configure the module.
 
 For questions and support sergeomikh@gmail.com
 
